@@ -1,4 +1,4 @@
-# Proyecto: Gestión de Usuario con LocalStorage
+# Proyecto: Gestión de Usuarios con LocalStorage
 
 Este proyecto es una introducción al uso de LocalStorage en JavaScript. Permite registrar un nombre de usuario, almacenarlo en el navegador y mostrar mensajes de bienvenida en diferentes páginas.
 
